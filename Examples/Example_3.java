@@ -1,6 +1,8 @@
 // 3rd java Example project
 // String class test
 
+import my_enums.*;
+
 class Example_3{
     public static void main(String[] args) {
         displayInputParameters(args);
