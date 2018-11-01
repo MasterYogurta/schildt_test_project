@@ -1,3 +1,3 @@
 cls
-del *.class
-javac *.java
+del Src/*.class
+javac Src/*.java
